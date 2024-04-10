@@ -28,7 +28,7 @@ public class loginform extends javax.swing.JFrame {
     public static boolean loginform(String username, String password){
         dbconnector connector = new dbconnector();
         try{
-            String query = "SELECT * FROM ims_user  WHERE u_username = '" + username + "' AND u_pass = '" + password + "'";
+            String query = "SELECT * FROM insurance  WHERE u_username = '" + username + "' AND u_pass = '" + password + "'";
             ResultSet resultSet = connector.getData(query);
             return resultSet.next();
         }catch (SQLException ex) {
@@ -48,26 +48,21 @@ public class loginform extends javax.swing.JFrame {
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
-        jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
         pass = new javax.swing.JTextField();
         jLabel3 = new javax.swing.JLabel();
         un = new javax.swing.JTextField();
         jButton1 = new javax.swing.JButton();
         jButton2 = new javax.swing.JButton();
-        jLabel4 = new javax.swing.JLabel();
         jLabel5 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
+        jLabel1 = new javax.swing.JLabel();
+        exit = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel1.setBackground(new java.awt.Color(204, 153, 255));
         jPanel1.setLayout(null);
-
-        jLabel1.setFont(new java.awt.Font("Yu Gothic Medium", 0, 12)); // NOI18N
-        jLabel1.setText("LOGIN ");
-        jPanel1.add(jLabel1);
-        jLabel1.setBounds(260, 150, 50, 42);
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jLabel2.setText("Password:");
@@ -107,12 +102,13 @@ public class loginform extends javax.swing.JFrame {
         jPanel1.add(jButton2);
         jButton2.setBounds(250, 330, 70, 30);
 
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/icons8-login-64.png"))); // NOI18N
-        jPanel1.add(jLabel4);
-        jLabel4.setBounds(240, 90, 80, 70);
-
         jLabel5.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel5.setText("Forgot password?");
+        jLabel5.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jLabel5MouseClicked(evt);
+            }
+        });
         jPanel1.add(jLabel5);
         jLabel5.setBounds(330, 290, 110, 14);
 
@@ -120,6 +116,21 @@ public class loginform extends javax.swing.JFrame {
         jLabel6.setText("Insurance Tracker");
         jPanel1.add(jLabel6);
         jLabel6.setBounds(140, 30, 300, 60);
+
+        jLabel1.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel1.setText("LOGIN");
+        jPanel1.add(jLabel1);
+        jLabel1.setBounds(220, 100, 140, 50);
+
+        exit.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        exit.setText("Exit");
+        exit.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                exitMouseClicked(evt);
+            }
+        });
+        jPanel1.add(exit);
+        exit.setBounds(530, 10, 50, 20);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -151,9 +162,17 @@ public class loginform extends javax.swing.JFrame {
             ads.setVisible(true);
             this.dispose();
         }else{
-            JOptionPane.showMessageDialog(null,"Login Success!");
+            JOptionPane.showMessageDialog(null,"Login Failed!");
         }        
     }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jLabel5MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel5MouseClicked
+        
+    }//GEN-LAST:event_jLabel5MouseClicked
+
+    private void exitMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_exitMouseClicked
+        System.exit(0);
+    }//GEN-LAST:event_exitMouseClicked
 
     /**
      * @param args the command line arguments
@@ -191,12 +210,12 @@ public class loginform extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel exit;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
-    private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JPanel jPanel1;

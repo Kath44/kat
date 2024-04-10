@@ -29,19 +29,1423 @@ public class registration extends javax.swing.JFrame {
 
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
-        jScrollBar1 = new javax.swing.JScrollBar();
+        jLabel6 = new javax.swing.JLabel();
+        jLabel2 = new javax.swing.JLabel();
+        jLabel4 = new javax.swing.JLabel();
+        jLabel3 = new javax.swing.JLabel();
+        jPanel2 = new javax.swing.JPanel();
+        jLabel5 = new javax.swing.JLabel();
+        jScrollBar2 = new javax.swing.JScrollBar();
+        jLabel7 = new javax.swing.JLabel();
+        jLabel8 = new javax.swing.JLabel();
+        jLabel9 = new javax.swing.JLabel();
+        jLabel10 = new javax.swing.JLabel();
+        jPanel3 = new javax.swing.JPanel();
+        jLabel11 = new javax.swing.JLabel();
+        jScrollBar3 = new javax.swing.JScrollBar();
+        jLabel12 = new javax.swing.JLabel();
+        jLabel13 = new javax.swing.JLabel();
+        jLabel14 = new javax.swing.JLabel();
+        jLabel15 = new javax.swing.JLabel();
+        jPanel4 = new javax.swing.JPanel();
+        jLabel16 = new javax.swing.JLabel();
+        jScrollBar4 = new javax.swing.JScrollBar();
+        jLabel17 = new javax.swing.JLabel();
+        jLabel18 = new javax.swing.JLabel();
+        jLabel19 = new javax.swing.JLabel();
+        jLabel20 = new javax.swing.JLabel();
+        jPanel5 = new javax.swing.JPanel();
+        jLabel21 = new javax.swing.JLabel();
+        jScrollBar5 = new javax.swing.JScrollBar();
+        jLabel22 = new javax.swing.JLabel();
+        jLabel23 = new javax.swing.JLabel();
+        jLabel24 = new javax.swing.JLabel();
+        jLabel25 = new javax.swing.JLabel();
+        jPanel6 = new javax.swing.JPanel();
+        jLabel26 = new javax.swing.JLabel();
+        jScrollBar6 = new javax.swing.JScrollBar();
+        jLabel27 = new javax.swing.JLabel();
+        jLabel28 = new javax.swing.JLabel();
+        jLabel29 = new javax.swing.JLabel();
+        jLabel30 = new javax.swing.JLabel();
+        jPanel7 = new javax.swing.JPanel();
+        jLabel31 = new javax.swing.JLabel();
+        jScrollBar7 = new javax.swing.JScrollBar();
+        jLabel32 = new javax.swing.JLabel();
+        jLabel33 = new javax.swing.JLabel();
+        jLabel34 = new javax.swing.JLabel();
+        jLabel35 = new javax.swing.JLabel();
+        jPanel8 = new javax.swing.JPanel();
+        jLabel36 = new javax.swing.JLabel();
+        jScrollBar8 = new javax.swing.JScrollBar();
+        jLabel37 = new javax.swing.JLabel();
+        jLabel38 = new javax.swing.JLabel();
+        jLabel39 = new javax.swing.JLabel();
+        jLabel40 = new javax.swing.JLabel();
+        jLabel41 = new javax.swing.JLabel();
+        jPanel9 = new javax.swing.JPanel();
+        jLabel42 = new javax.swing.JLabel();
+        jScrollBar9 = new javax.swing.JScrollBar();
+        jLabel43 = new javax.swing.JLabel();
+        jLabel44 = new javax.swing.JLabel();
+        jLabel45 = new javax.swing.JLabel();
+        jLabel46 = new javax.swing.JLabel();
+        jPanel10 = new javax.swing.JPanel();
+        jLabel47 = new javax.swing.JLabel();
+        jScrollBar10 = new javax.swing.JScrollBar();
+        jLabel48 = new javax.swing.JLabel();
+        jLabel49 = new javax.swing.JLabel();
+        jLabel50 = new javax.swing.JLabel();
+        jLabel51 = new javax.swing.JLabel();
+        jPanel11 = new javax.swing.JPanel();
+        jLabel52 = new javax.swing.JLabel();
+        jScrollBar11 = new javax.swing.JScrollBar();
+        jLabel53 = new javax.swing.JLabel();
+        jLabel54 = new javax.swing.JLabel();
+        jLabel55 = new javax.swing.JLabel();
+        jLabel56 = new javax.swing.JLabel();
+        jPanel12 = new javax.swing.JPanel();
+        jLabel57 = new javax.swing.JLabel();
+        jScrollBar12 = new javax.swing.JScrollBar();
+        jLabel58 = new javax.swing.JLabel();
+        jLabel59 = new javax.swing.JLabel();
+        jLabel60 = new javax.swing.JLabel();
+        jLabel61 = new javax.swing.JLabel();
+        jPanel13 = new javax.swing.JPanel();
+        jLabel62 = new javax.swing.JLabel();
+        jScrollBar13 = new javax.swing.JScrollBar();
+        jLabel63 = new javax.swing.JLabel();
+        jLabel64 = new javax.swing.JLabel();
+        jLabel65 = new javax.swing.JLabel();
+        jLabel66 = new javax.swing.JLabel();
+        jPanel14 = new javax.swing.JPanel();
+        jLabel67 = new javax.swing.JLabel();
+        jScrollBar14 = new javax.swing.JScrollBar();
+        jLabel68 = new javax.swing.JLabel();
+        jLabel69 = new javax.swing.JLabel();
+        jLabel70 = new javax.swing.JLabel();
+        jLabel71 = new javax.swing.JLabel();
+        jPanel15 = new javax.swing.JPanel();
+        jLabel72 = new javax.swing.JLabel();
+        jScrollBar15 = new javax.swing.JScrollBar();
+        jLabel73 = new javax.swing.JLabel();
+        jLabel74 = new javax.swing.JLabel();
+        jLabel75 = new javax.swing.JLabel();
+        jLabel76 = new javax.swing.JLabel();
+        jPanel16 = new javax.swing.JPanel();
+        jLabel77 = new javax.swing.JLabel();
+        jScrollBar16 = new javax.swing.JScrollBar();
+        jLabel78 = new javax.swing.JLabel();
+        jLabel79 = new javax.swing.JLabel();
+        jLabel80 = new javax.swing.JLabel();
+        jLabel81 = new javax.swing.JLabel();
+        jLabel82 = new javax.swing.JLabel();
+        jLabel83 = new javax.swing.JLabel();
+        jLabel84 = new javax.swing.JLabel();
+        jLabel85 = new javax.swing.JLabel();
+        pass = new javax.swing.JTextField();
+        fn = new javax.swing.JTextField();
+        ln = new javax.swing.JTextField();
+        jTextField4 = new javax.swing.JTextField();
+        email = new javax.swing.JTextField();
+        jPanel17 = new javax.swing.JPanel();
+        jLabel86 = new javax.swing.JLabel();
+        jScrollBar17 = new javax.swing.JScrollBar();
+        jLabel87 = new javax.swing.JLabel();
+        jLabel88 = new javax.swing.JLabel();
+        jLabel89 = new javax.swing.JLabel();
+        jLabel90 = new javax.swing.JLabel();
+        jPanel18 = new javax.swing.JPanel();
+        jLabel91 = new javax.swing.JLabel();
+        jScrollBar18 = new javax.swing.JScrollBar();
+        jLabel92 = new javax.swing.JLabel();
+        jLabel93 = new javax.swing.JLabel();
+        jLabel94 = new javax.swing.JLabel();
+        jLabel95 = new javax.swing.JLabel();
+        jPanel19 = new javax.swing.JPanel();
+        jLabel96 = new javax.swing.JLabel();
+        jScrollBar19 = new javax.swing.JScrollBar();
+        jLabel97 = new javax.swing.JLabel();
+        jLabel98 = new javax.swing.JLabel();
+        jLabel99 = new javax.swing.JLabel();
+        jLabel100 = new javax.swing.JLabel();
+        jPanel20 = new javax.swing.JPanel();
+        jLabel101 = new javax.swing.JLabel();
+        jScrollBar20 = new javax.swing.JScrollBar();
+        jLabel102 = new javax.swing.JLabel();
+        jLabel103 = new javax.swing.JLabel();
+        jLabel104 = new javax.swing.JLabel();
+        jLabel105 = new javax.swing.JLabel();
+        jPanel21 = new javax.swing.JPanel();
+        jLabel106 = new javax.swing.JLabel();
+        jScrollBar21 = new javax.swing.JScrollBar();
+        jLabel107 = new javax.swing.JLabel();
+        jLabel108 = new javax.swing.JLabel();
+        jLabel109 = new javax.swing.JLabel();
+        jLabel110 = new javax.swing.JLabel();
+        jPanel22 = new javax.swing.JPanel();
+        jLabel111 = new javax.swing.JLabel();
+        jScrollBar22 = new javax.swing.JScrollBar();
+        jLabel112 = new javax.swing.JLabel();
+        jLabel113 = new javax.swing.JLabel();
+        jLabel114 = new javax.swing.JLabel();
+        jLabel115 = new javax.swing.JLabel();
+        jPanel23 = new javax.swing.JPanel();
+        jLabel116 = new javax.swing.JLabel();
+        jScrollBar23 = new javax.swing.JScrollBar();
+        jLabel117 = new javax.swing.JLabel();
+        jLabel118 = new javax.swing.JLabel();
+        jLabel119 = new javax.swing.JLabel();
+        jLabel120 = new javax.swing.JLabel();
+        jPanel24 = new javax.swing.JPanel();
+        jLabel121 = new javax.swing.JLabel();
+        jScrollBar24 = new javax.swing.JScrollBar();
+        jLabel122 = new javax.swing.JLabel();
+        jLabel123 = new javax.swing.JLabel();
+        jLabel124 = new javax.swing.JLabel();
+        jLabel125 = new javax.swing.JLabel();
+        jLabel126 = new javax.swing.JLabel();
+        jPanel25 = new javax.swing.JPanel();
+        jLabel127 = new javax.swing.JLabel();
+        jScrollBar25 = new javax.swing.JScrollBar();
+        jLabel128 = new javax.swing.JLabel();
+        jLabel129 = new javax.swing.JLabel();
+        jLabel130 = new javax.swing.JLabel();
+        jLabel131 = new javax.swing.JLabel();
+        jPanel26 = new javax.swing.JPanel();
+        jLabel132 = new javax.swing.JLabel();
+        jScrollBar26 = new javax.swing.JScrollBar();
+        jLabel133 = new javax.swing.JLabel();
+        jLabel134 = new javax.swing.JLabel();
+        jLabel135 = new javax.swing.JLabel();
+        jLabel136 = new javax.swing.JLabel();
+        jPanel27 = new javax.swing.JPanel();
+        jLabel137 = new javax.swing.JLabel();
+        jScrollBar27 = new javax.swing.JScrollBar();
+        jLabel138 = new javax.swing.JLabel();
+        jLabel139 = new javax.swing.JLabel();
+        jLabel140 = new javax.swing.JLabel();
+        jLabel141 = new javax.swing.JLabel();
+        jPanel28 = new javax.swing.JPanel();
+        jLabel142 = new javax.swing.JLabel();
+        jScrollBar28 = new javax.swing.JScrollBar();
+        jLabel143 = new javax.swing.JLabel();
+        jLabel144 = new javax.swing.JLabel();
+        jLabel145 = new javax.swing.JLabel();
+        jLabel146 = new javax.swing.JLabel();
+        jPanel29 = new javax.swing.JPanel();
+        jLabel147 = new javax.swing.JLabel();
+        jScrollBar29 = new javax.swing.JScrollBar();
+        jLabel148 = new javax.swing.JLabel();
+        jLabel149 = new javax.swing.JLabel();
+        jLabel150 = new javax.swing.JLabel();
+        jLabel151 = new javax.swing.JLabel();
+        jPanel30 = new javax.swing.JPanel();
+        jLabel152 = new javax.swing.JLabel();
+        jScrollBar30 = new javax.swing.JScrollBar();
+        jLabel153 = new javax.swing.JLabel();
+        jLabel154 = new javax.swing.JLabel();
+        jLabel155 = new javax.swing.JLabel();
+        jLabel156 = new javax.swing.JLabel();
+        jPanel31 = new javax.swing.JPanel();
+        jLabel157 = new javax.swing.JLabel();
+        jScrollBar31 = new javax.swing.JScrollBar();
+        jLabel158 = new javax.swing.JLabel();
+        jLabel159 = new javax.swing.JLabel();
+        jLabel160 = new javax.swing.JLabel();
+        jLabel161 = new javax.swing.JLabel();
+        jPanel32 = new javax.swing.JPanel();
+        jLabel162 = new javax.swing.JLabel();
+        jScrollBar32 = new javax.swing.JScrollBar();
+        jLabel163 = new javax.swing.JLabel();
+        jLabel164 = new javax.swing.JLabel();
+        jLabel165 = new javax.swing.JLabel();
+        jLabel166 = new javax.swing.JLabel();
+        jLabel167 = new javax.swing.JLabel();
+        jLabel168 = new javax.swing.JLabel();
+        jLabel169 = new javax.swing.JLabel();
+        jLabel170 = new javax.swing.JLabel();
+        jTextField6 = new javax.swing.JTextField();
+        jTextField7 = new javax.swing.JTextField();
+        jTextField8 = new javax.swing.JTextField();
+        jTextField9 = new javax.swing.JTextField();
+        jTextField10 = new javax.swing.JTextField();
+        un = new javax.swing.JTextField();
+        utype = new javax.swing.JComboBox<>();
+        jButton1 = new javax.swing.JButton();
+        jButton2 = new javax.swing.JButton();
+        jLabel171 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel1.setBackground(new java.awt.Color(204, 153, 255));
         jPanel1.setLayout(null);
 
         jLabel1.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Registration");
         jPanel1.add(jLabel1);
-        jLabel1.setBounds(230, 20, 220, 60);
-        jPanel1.add(jScrollBar1);
-        jScrollBar1.setBounds(680, 0, 17, 500);
+        jLabel1.setBounds(230, 50, 220, 60);
+
+        jLabel6.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel6.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel6.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel6.setText("Insurance Tracker");
+        jPanel1.add(jLabel6);
+        jLabel6.setBounds(190, 10, 300, 60);
+
+        jLabel2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
+        jLabel2.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel2.setText("Email:");
+        jPanel1.add(jLabel2);
+        jLabel2.setBounds(60, 230, 110, 30);
+
+        jLabel4.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
+        jLabel4.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel4.setText("Status:");
+        jPanel1.add(jLabel4);
+        jLabel4.setBounds(60, 360, 110, 30);
+
+        jLabel3.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
+        jLabel3.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel3.setText("User Name:");
+        jPanel1.add(jLabel3);
+        jLabel3.setBounds(60, 320, 110, 30);
+
+        jPanel2.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel2.setLayout(null);
+
+        jLabel5.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel5.setText("Registration");
+        jPanel2.add(jLabel5);
+        jLabel5.setBounds(230, 50, 220, 60);
+        jPanel2.add(jScrollBar2);
+        jScrollBar2.setBounds(680, 0, 17, 500);
+
+        jLabel7.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel7.setText("Insurance Tracker");
+        jPanel2.add(jLabel7);
+        jLabel7.setBounds(190, 10, 300, 60);
+
+        jLabel8.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel8.setText("First Name:");
+        jPanel2.add(jLabel8);
+        jLabel8.setBounds(90, 230, 110, 30);
+
+        jLabel9.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel9.setText("First Name:");
+        jPanel2.add(jLabel9);
+        jLabel9.setBounds(80, 140, 110, 30);
+
+        jLabel10.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel10.setText("First Name:");
+        jPanel2.add(jLabel10);
+        jLabel10.setBounds(80, 180, 110, 30);
+
+        jPanel1.add(jPanel2);
+        jPanel2.setBounds(0, 0, 0, 0);
+
+        jPanel3.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel3.setLayout(null);
+
+        jLabel11.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel11.setText("Registration");
+        jPanel3.add(jLabel11);
+        jLabel11.setBounds(230, 50, 220, 60);
+        jPanel3.add(jScrollBar3);
+        jScrollBar3.setBounds(680, 0, 17, 500);
+
+        jLabel12.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel12.setText("Insurance Tracker");
+        jPanel3.add(jLabel12);
+        jLabel12.setBounds(190, 10, 300, 60);
+
+        jLabel13.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel13.setText("First Name:");
+        jPanel3.add(jLabel13);
+        jLabel13.setBounds(90, 230, 110, 30);
+
+        jLabel14.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel14.setText("First Name:");
+        jPanel3.add(jLabel14);
+        jLabel14.setBounds(80, 140, 110, 30);
+
+        jLabel15.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel15.setText("First Name:");
+        jPanel3.add(jLabel15);
+        jLabel15.setBounds(80, 180, 110, 30);
+
+        jPanel4.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel4.setLayout(null);
+
+        jLabel16.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel16.setText("Registration");
+        jPanel4.add(jLabel16);
+        jLabel16.setBounds(230, 50, 220, 60);
+        jPanel4.add(jScrollBar4);
+        jScrollBar4.setBounds(680, 0, 17, 500);
+
+        jLabel17.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel17.setText("Insurance Tracker");
+        jPanel4.add(jLabel17);
+        jLabel17.setBounds(190, 10, 300, 60);
+
+        jLabel18.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel18.setText("First Name:");
+        jPanel4.add(jLabel18);
+        jLabel18.setBounds(90, 230, 110, 30);
+
+        jLabel19.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel19.setText("First Name:");
+        jPanel4.add(jLabel19);
+        jLabel19.setBounds(80, 140, 110, 30);
+
+        jLabel20.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel20.setText("First Name:");
+        jPanel4.add(jLabel20);
+        jLabel20.setBounds(80, 180, 110, 30);
+
+        jPanel3.add(jPanel4);
+        jPanel4.setBounds(0, 0, 0, 0);
+
+        jPanel1.add(jPanel3);
+        jPanel3.setBounds(0, 0, 0, 0);
+
+        jPanel5.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel5.setLayout(null);
+
+        jLabel21.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel21.setText("Registration");
+        jPanel5.add(jLabel21);
+        jLabel21.setBounds(230, 50, 220, 60);
+        jPanel5.add(jScrollBar5);
+        jScrollBar5.setBounds(680, 0, 17, 500);
+
+        jLabel22.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel22.setText("Insurance Tracker");
+        jPanel5.add(jLabel22);
+        jLabel22.setBounds(190, 10, 300, 60);
+
+        jLabel23.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel23.setText("First Name:");
+        jPanel5.add(jLabel23);
+        jLabel23.setBounds(90, 230, 110, 30);
+
+        jLabel24.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel24.setText("First Name:");
+        jPanel5.add(jLabel24);
+        jLabel24.setBounds(80, 140, 110, 30);
+
+        jLabel25.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel25.setText("First Name:");
+        jPanel5.add(jLabel25);
+        jLabel25.setBounds(80, 180, 110, 30);
+
+        jPanel6.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel6.setLayout(null);
+
+        jLabel26.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel26.setText("Registration");
+        jPanel6.add(jLabel26);
+        jLabel26.setBounds(230, 50, 220, 60);
+        jPanel6.add(jScrollBar6);
+        jScrollBar6.setBounds(680, 0, 17, 500);
+
+        jLabel27.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel27.setText("Insurance Tracker");
+        jPanel6.add(jLabel27);
+        jLabel27.setBounds(190, 10, 300, 60);
+
+        jLabel28.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel28.setText("First Name:");
+        jPanel6.add(jLabel28);
+        jLabel28.setBounds(90, 230, 110, 30);
+
+        jLabel29.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel29.setText("First Name:");
+        jPanel6.add(jLabel29);
+        jLabel29.setBounds(80, 140, 110, 30);
+
+        jLabel30.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel30.setText("First Name:");
+        jPanel6.add(jLabel30);
+        jLabel30.setBounds(80, 180, 110, 30);
+
+        jPanel5.add(jPanel6);
+        jPanel6.setBounds(0, 0, 0, 0);
+
+        jPanel7.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel7.setLayout(null);
+
+        jLabel31.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel31.setText("Registration");
+        jPanel7.add(jLabel31);
+        jLabel31.setBounds(230, 50, 220, 60);
+        jPanel7.add(jScrollBar7);
+        jScrollBar7.setBounds(680, 0, 17, 500);
+
+        jLabel32.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel32.setText("Insurance Tracker");
+        jPanel7.add(jLabel32);
+        jLabel32.setBounds(190, 10, 300, 60);
+
+        jLabel33.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel33.setText("First Name:");
+        jPanel7.add(jLabel33);
+        jLabel33.setBounds(90, 230, 110, 30);
+
+        jLabel34.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel34.setText("First Name:");
+        jPanel7.add(jLabel34);
+        jLabel34.setBounds(80, 140, 110, 30);
+
+        jLabel35.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel35.setText("First Name:");
+        jPanel7.add(jLabel35);
+        jLabel35.setBounds(80, 180, 110, 30);
+
+        jPanel8.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel8.setLayout(null);
+
+        jLabel36.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel36.setText("Registration");
+        jPanel8.add(jLabel36);
+        jLabel36.setBounds(230, 50, 220, 60);
+        jPanel8.add(jScrollBar8);
+        jScrollBar8.setBounds(680, 0, 17, 500);
+
+        jLabel37.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel37.setText("Insurance Tracker");
+        jPanel8.add(jLabel37);
+        jLabel37.setBounds(190, 10, 300, 60);
+
+        jLabel38.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel38.setText("First Name:");
+        jPanel8.add(jLabel38);
+        jLabel38.setBounds(90, 230, 110, 30);
+
+        jLabel39.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel39.setText("First Name:");
+        jPanel8.add(jLabel39);
+        jLabel39.setBounds(80, 140, 110, 30);
+
+        jLabel40.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel40.setText("First Name:");
+        jPanel8.add(jLabel40);
+        jLabel40.setBounds(80, 180, 110, 30);
+
+        jPanel7.add(jPanel8);
+        jPanel8.setBounds(0, 0, 0, 0);
+
+        jPanel5.add(jPanel7);
+        jPanel7.setBounds(0, 0, 0, 0);
+
+        jPanel1.add(jPanel5);
+        jPanel5.setBounds(0, 0, 0, 0);
+
+        jLabel41.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
+        jLabel41.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel41.setText("First Name:");
+        jPanel1.add(jLabel41);
+        jLabel41.setBounds(60, 130, 110, 30);
+
+        jPanel9.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel9.setLayout(null);
+
+        jLabel42.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel42.setText("Registration");
+        jPanel9.add(jLabel42);
+        jLabel42.setBounds(230, 50, 220, 60);
+        jPanel9.add(jScrollBar9);
+        jScrollBar9.setBounds(680, 0, 17, 500);
+
+        jLabel43.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel43.setText("Insurance Tracker");
+        jPanel9.add(jLabel43);
+        jLabel43.setBounds(190, 10, 300, 60);
+
+        jLabel44.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel44.setText("First Name:");
+        jPanel9.add(jLabel44);
+        jLabel44.setBounds(80, 190, 110, 30);
+
+        jLabel45.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel45.setText("First Name:");
+        jPanel9.add(jLabel45);
+        jLabel45.setBounds(80, 160, 110, 30);
+
+        jLabel46.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel46.setText("First Name:");
+        jPanel9.add(jLabel46);
+        jLabel46.setBounds(80, 230, 110, 30);
+
+        jPanel10.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel10.setLayout(null);
+
+        jLabel47.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel47.setText("Registration");
+        jPanel10.add(jLabel47);
+        jLabel47.setBounds(230, 50, 220, 60);
+        jPanel10.add(jScrollBar10);
+        jScrollBar10.setBounds(680, 0, 17, 500);
+
+        jLabel48.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel48.setText("Insurance Tracker");
+        jPanel10.add(jLabel48);
+        jLabel48.setBounds(190, 10, 300, 60);
+
+        jLabel49.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel49.setText("First Name:");
+        jPanel10.add(jLabel49);
+        jLabel49.setBounds(90, 230, 110, 30);
+
+        jLabel50.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel50.setText("First Name:");
+        jPanel10.add(jLabel50);
+        jLabel50.setBounds(80, 140, 110, 30);
+
+        jLabel51.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel51.setText("First Name:");
+        jPanel10.add(jLabel51);
+        jLabel51.setBounds(80, 180, 110, 30);
+
+        jPanel9.add(jPanel10);
+        jPanel10.setBounds(0, 0, 0, 0);
+
+        jPanel11.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel11.setLayout(null);
+
+        jLabel52.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel52.setText("Registration");
+        jPanel11.add(jLabel52);
+        jLabel52.setBounds(230, 50, 220, 60);
+        jPanel11.add(jScrollBar11);
+        jScrollBar11.setBounds(680, 0, 17, 500);
+
+        jLabel53.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel53.setText("Insurance Tracker");
+        jPanel11.add(jLabel53);
+        jLabel53.setBounds(190, 10, 300, 60);
+
+        jLabel54.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel54.setText("First Name:");
+        jPanel11.add(jLabel54);
+        jLabel54.setBounds(90, 230, 110, 30);
+
+        jLabel55.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel55.setText("First Name:");
+        jPanel11.add(jLabel55);
+        jLabel55.setBounds(80, 140, 110, 30);
+
+        jLabel56.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel56.setText("First Name:");
+        jPanel11.add(jLabel56);
+        jLabel56.setBounds(80, 180, 110, 30);
+
+        jPanel12.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel12.setLayout(null);
+
+        jLabel57.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel57.setText("Registration");
+        jPanel12.add(jLabel57);
+        jLabel57.setBounds(230, 50, 220, 60);
+        jPanel12.add(jScrollBar12);
+        jScrollBar12.setBounds(680, 0, 17, 500);
+
+        jLabel58.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel58.setText("Insurance Tracker");
+        jPanel12.add(jLabel58);
+        jLabel58.setBounds(190, 10, 300, 60);
+
+        jLabel59.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel59.setText("First Name:");
+        jPanel12.add(jLabel59);
+        jLabel59.setBounds(90, 230, 110, 30);
+
+        jLabel60.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel60.setText("First Name:");
+        jPanel12.add(jLabel60);
+        jLabel60.setBounds(80, 140, 110, 30);
+
+        jLabel61.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel61.setText("First Name:");
+        jPanel12.add(jLabel61);
+        jLabel61.setBounds(80, 180, 110, 30);
+
+        jPanel11.add(jPanel12);
+        jPanel12.setBounds(0, 0, 0, 0);
+
+        jPanel9.add(jPanel11);
+        jPanel11.setBounds(0, 0, 0, 0);
+
+        jPanel13.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel13.setLayout(null);
+
+        jLabel62.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel62.setText("Registration");
+        jPanel13.add(jLabel62);
+        jLabel62.setBounds(230, 50, 220, 60);
+        jPanel13.add(jScrollBar13);
+        jScrollBar13.setBounds(680, 0, 17, 500);
+
+        jLabel63.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel63.setText("Insurance Tracker");
+        jPanel13.add(jLabel63);
+        jLabel63.setBounds(190, 10, 300, 60);
+
+        jLabel64.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel64.setText("First Name:");
+        jPanel13.add(jLabel64);
+        jLabel64.setBounds(90, 230, 110, 30);
+
+        jLabel65.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel65.setText("First Name:");
+        jPanel13.add(jLabel65);
+        jLabel65.setBounds(80, 140, 110, 30);
+
+        jLabel66.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel66.setText("First Name:");
+        jPanel13.add(jLabel66);
+        jLabel66.setBounds(80, 180, 110, 30);
+
+        jPanel14.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel14.setLayout(null);
+
+        jLabel67.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel67.setText("Registration");
+        jPanel14.add(jLabel67);
+        jLabel67.setBounds(230, 50, 220, 60);
+        jPanel14.add(jScrollBar14);
+        jScrollBar14.setBounds(680, 0, 17, 500);
+
+        jLabel68.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel68.setText("Insurance Tracker");
+        jPanel14.add(jLabel68);
+        jLabel68.setBounds(190, 10, 300, 60);
+
+        jLabel69.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel69.setText("First Name:");
+        jPanel14.add(jLabel69);
+        jLabel69.setBounds(90, 230, 110, 30);
+
+        jLabel70.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel70.setText("First Name:");
+        jPanel14.add(jLabel70);
+        jLabel70.setBounds(80, 140, 110, 30);
+
+        jLabel71.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel71.setText("First Name:");
+        jPanel14.add(jLabel71);
+        jLabel71.setBounds(80, 180, 110, 30);
+
+        jPanel13.add(jPanel14);
+        jPanel14.setBounds(0, 0, 0, 0);
+
+        jPanel15.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel15.setLayout(null);
+
+        jLabel72.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel72.setText("Registration");
+        jPanel15.add(jLabel72);
+        jLabel72.setBounds(230, 50, 220, 60);
+        jPanel15.add(jScrollBar15);
+        jScrollBar15.setBounds(680, 0, 17, 500);
+
+        jLabel73.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel73.setText("Insurance Tracker");
+        jPanel15.add(jLabel73);
+        jLabel73.setBounds(190, 10, 300, 60);
+
+        jLabel74.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel74.setText("First Name:");
+        jPanel15.add(jLabel74);
+        jLabel74.setBounds(90, 230, 110, 30);
+
+        jLabel75.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel75.setText("First Name:");
+        jPanel15.add(jLabel75);
+        jLabel75.setBounds(80, 140, 110, 30);
+
+        jLabel76.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel76.setText("First Name:");
+        jPanel15.add(jLabel76);
+        jLabel76.setBounds(80, 180, 110, 30);
+
+        jPanel16.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel16.setLayout(null);
+
+        jLabel77.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel77.setText("Registration");
+        jPanel16.add(jLabel77);
+        jLabel77.setBounds(230, 50, 220, 60);
+        jPanel16.add(jScrollBar16);
+        jScrollBar16.setBounds(680, 0, 17, 500);
+
+        jLabel78.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel78.setText("Insurance Tracker");
+        jPanel16.add(jLabel78);
+        jLabel78.setBounds(190, 10, 300, 60);
+
+        jLabel79.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel79.setText("First Name:");
+        jPanel16.add(jLabel79);
+        jLabel79.setBounds(90, 230, 110, 30);
+
+        jLabel80.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel80.setText("First Name:");
+        jPanel16.add(jLabel80);
+        jLabel80.setBounds(80, 140, 110, 30);
+
+        jLabel81.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel81.setText("First Name:");
+        jPanel16.add(jLabel81);
+        jLabel81.setBounds(80, 180, 110, 30);
+
+        jPanel15.add(jPanel16);
+        jPanel16.setBounds(0, 0, 0, 0);
+
+        jPanel13.add(jPanel15);
+        jPanel15.setBounds(0, 0, 0, 0);
+
+        jPanel9.add(jPanel13);
+        jPanel13.setBounds(0, 0, 0, 0);
+
+        jLabel82.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel82.setText("First Name:");
+        jPanel9.add(jLabel82);
+        jLabel82.setBounds(70, 130, 110, 30);
+
+        jPanel1.add(jPanel9);
+        jPanel9.setBounds(0, 0, 0, 0);
+
+        jLabel83.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
+        jLabel83.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel83.setText("Password:");
+        jPanel1.add(jLabel83);
+        jLabel83.setBounds(60, 280, 110, 30);
+
+        jLabel84.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
+        jLabel84.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel84.setText("Last Name:");
+        jPanel1.add(jLabel84);
+        jLabel84.setBounds(60, 180, 110, 30);
+
+        jLabel85.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
+        jLabel85.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel85.setText("Type:");
+        jPanel1.add(jLabel85);
+        jLabel85.setBounds(70, 400, 110, 30);
+        jPanel1.add(pass);
+        pass.setBounds(240, 280, 200, 30);
+        jPanel1.add(fn);
+        fn.setBounds(240, 130, 200, 30);
+        jPanel1.add(ln);
+        ln.setBounds(240, 180, 200, 30);
+        jPanel1.add(jTextField4);
+        jTextField4.setBounds(240, 360, 200, 30);
+        jPanel1.add(email);
+        email.setBounds(240, 230, 200, 30);
+
+        jPanel17.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel17.setLayout(null);
+
+        jLabel86.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel86.setText("Registration");
+        jPanel17.add(jLabel86);
+        jLabel86.setBounds(230, 50, 220, 60);
+        jPanel17.add(jScrollBar17);
+        jScrollBar17.setBounds(680, 0, 17, 500);
+
+        jLabel87.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel87.setText("Insurance Tracker");
+        jPanel17.add(jLabel87);
+        jLabel87.setBounds(190, 10, 300, 60);
+
+        jLabel88.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel88.setText("Email:");
+        jPanel17.add(jLabel88);
+        jLabel88.setBounds(60, 230, 110, 30);
+
+        jLabel89.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel89.setText("Status:");
+        jPanel17.add(jLabel89);
+        jLabel89.setBounds(60, 410, 110, 30);
+
+        jLabel90.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel90.setText("User Name:");
+        jPanel17.add(jLabel90);
+        jLabel90.setBounds(60, 330, 110, 30);
+
+        jPanel18.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel18.setLayout(null);
+
+        jLabel91.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel91.setText("Registration");
+        jPanel18.add(jLabel91);
+        jLabel91.setBounds(230, 50, 220, 60);
+        jPanel18.add(jScrollBar18);
+        jScrollBar18.setBounds(680, 0, 17, 500);
+
+        jLabel92.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel92.setText("Insurance Tracker");
+        jPanel18.add(jLabel92);
+        jLabel92.setBounds(190, 10, 300, 60);
+
+        jLabel93.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel93.setText("First Name:");
+        jPanel18.add(jLabel93);
+        jLabel93.setBounds(90, 230, 110, 30);
+
+        jLabel94.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel94.setText("First Name:");
+        jPanel18.add(jLabel94);
+        jLabel94.setBounds(80, 140, 110, 30);
+
+        jLabel95.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel95.setText("First Name:");
+        jPanel18.add(jLabel95);
+        jLabel95.setBounds(80, 180, 110, 30);
+
+        jPanel17.add(jPanel18);
+        jPanel18.setBounds(0, 0, 0, 0);
+
+        jPanel19.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel19.setLayout(null);
+
+        jLabel96.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel96.setText("Registration");
+        jPanel19.add(jLabel96);
+        jLabel96.setBounds(230, 50, 220, 60);
+        jPanel19.add(jScrollBar19);
+        jScrollBar19.setBounds(680, 0, 17, 500);
+
+        jLabel97.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel97.setText("Insurance Tracker");
+        jPanel19.add(jLabel97);
+        jLabel97.setBounds(190, 10, 300, 60);
+
+        jLabel98.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel98.setText("First Name:");
+        jPanel19.add(jLabel98);
+        jLabel98.setBounds(90, 230, 110, 30);
+
+        jLabel99.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel99.setText("First Name:");
+        jPanel19.add(jLabel99);
+        jLabel99.setBounds(80, 140, 110, 30);
+
+        jLabel100.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel100.setText("First Name:");
+        jPanel19.add(jLabel100);
+        jLabel100.setBounds(80, 180, 110, 30);
+
+        jPanel20.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel20.setLayout(null);
+
+        jLabel101.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel101.setText("Registration");
+        jPanel20.add(jLabel101);
+        jLabel101.setBounds(230, 50, 220, 60);
+        jPanel20.add(jScrollBar20);
+        jScrollBar20.setBounds(680, 0, 17, 500);
+
+        jLabel102.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel102.setText("Insurance Tracker");
+        jPanel20.add(jLabel102);
+        jLabel102.setBounds(190, 10, 300, 60);
+
+        jLabel103.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel103.setText("First Name:");
+        jPanel20.add(jLabel103);
+        jLabel103.setBounds(90, 230, 110, 30);
+
+        jLabel104.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel104.setText("First Name:");
+        jPanel20.add(jLabel104);
+        jLabel104.setBounds(80, 140, 110, 30);
+
+        jLabel105.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel105.setText("First Name:");
+        jPanel20.add(jLabel105);
+        jLabel105.setBounds(80, 180, 110, 30);
+
+        jPanel19.add(jPanel20);
+        jPanel20.setBounds(0, 0, 0, 0);
+
+        jPanel17.add(jPanel19);
+        jPanel19.setBounds(0, 0, 0, 0);
+
+        jPanel21.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel21.setLayout(null);
+
+        jLabel106.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel106.setText("Registration");
+        jPanel21.add(jLabel106);
+        jLabel106.setBounds(230, 50, 220, 60);
+        jPanel21.add(jScrollBar21);
+        jScrollBar21.setBounds(680, 0, 17, 500);
+
+        jLabel107.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel107.setText("Insurance Tracker");
+        jPanel21.add(jLabel107);
+        jLabel107.setBounds(190, 10, 300, 60);
+
+        jLabel108.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel108.setText("First Name:");
+        jPanel21.add(jLabel108);
+        jLabel108.setBounds(90, 230, 110, 30);
+
+        jLabel109.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel109.setText("First Name:");
+        jPanel21.add(jLabel109);
+        jLabel109.setBounds(80, 140, 110, 30);
+
+        jLabel110.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel110.setText("First Name:");
+        jPanel21.add(jLabel110);
+        jLabel110.setBounds(80, 180, 110, 30);
+
+        jPanel22.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel22.setLayout(null);
+
+        jLabel111.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel111.setText("Registration");
+        jPanel22.add(jLabel111);
+        jLabel111.setBounds(230, 50, 220, 60);
+        jPanel22.add(jScrollBar22);
+        jScrollBar22.setBounds(680, 0, 17, 500);
+
+        jLabel112.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel112.setText("Insurance Tracker");
+        jPanel22.add(jLabel112);
+        jLabel112.setBounds(190, 10, 300, 60);
+
+        jLabel113.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel113.setText("First Name:");
+        jPanel22.add(jLabel113);
+        jLabel113.setBounds(90, 230, 110, 30);
+
+        jLabel114.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel114.setText("First Name:");
+        jPanel22.add(jLabel114);
+        jLabel114.setBounds(80, 140, 110, 30);
+
+        jLabel115.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel115.setText("First Name:");
+        jPanel22.add(jLabel115);
+        jLabel115.setBounds(80, 180, 110, 30);
+
+        jPanel21.add(jPanel22);
+        jPanel22.setBounds(0, 0, 0, 0);
+
+        jPanel23.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel23.setLayout(null);
+
+        jLabel116.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel116.setText("Registration");
+        jPanel23.add(jLabel116);
+        jLabel116.setBounds(230, 50, 220, 60);
+        jPanel23.add(jScrollBar23);
+        jScrollBar23.setBounds(680, 0, 17, 500);
+
+        jLabel117.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel117.setText("Insurance Tracker");
+        jPanel23.add(jLabel117);
+        jLabel117.setBounds(190, 10, 300, 60);
+
+        jLabel118.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel118.setText("First Name:");
+        jPanel23.add(jLabel118);
+        jLabel118.setBounds(90, 230, 110, 30);
+
+        jLabel119.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel119.setText("First Name:");
+        jPanel23.add(jLabel119);
+        jLabel119.setBounds(80, 140, 110, 30);
+
+        jLabel120.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel120.setText("First Name:");
+        jPanel23.add(jLabel120);
+        jLabel120.setBounds(80, 180, 110, 30);
+
+        jPanel24.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel24.setLayout(null);
+
+        jLabel121.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel121.setText("Registration");
+        jPanel24.add(jLabel121);
+        jLabel121.setBounds(230, 50, 220, 60);
+        jPanel24.add(jScrollBar24);
+        jScrollBar24.setBounds(680, 0, 17, 500);
+
+        jLabel122.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel122.setText("Insurance Tracker");
+        jPanel24.add(jLabel122);
+        jLabel122.setBounds(190, 10, 300, 60);
+
+        jLabel123.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel123.setText("First Name:");
+        jPanel24.add(jLabel123);
+        jLabel123.setBounds(90, 230, 110, 30);
+
+        jLabel124.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel124.setText("First Name:");
+        jPanel24.add(jLabel124);
+        jLabel124.setBounds(80, 140, 110, 30);
+
+        jLabel125.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel125.setText("First Name:");
+        jPanel24.add(jLabel125);
+        jLabel125.setBounds(80, 180, 110, 30);
+
+        jPanel23.add(jPanel24);
+        jPanel24.setBounds(0, 0, 0, 0);
+
+        jPanel21.add(jPanel23);
+        jPanel23.setBounds(0, 0, 0, 0);
+
+        jPanel17.add(jPanel21);
+        jPanel21.setBounds(0, 0, 0, 0);
+
+        jLabel126.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel126.setText("First Name:");
+        jPanel17.add(jLabel126);
+        jLabel126.setBounds(60, 130, 110, 30);
+
+        jPanel25.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel25.setLayout(null);
+
+        jLabel127.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel127.setText("Registration");
+        jPanel25.add(jLabel127);
+        jLabel127.setBounds(230, 50, 220, 60);
+        jPanel25.add(jScrollBar25);
+        jScrollBar25.setBounds(680, 0, 17, 500);
+
+        jLabel128.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel128.setText("Insurance Tracker");
+        jPanel25.add(jLabel128);
+        jLabel128.setBounds(190, 10, 300, 60);
+
+        jLabel129.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel129.setText("First Name:");
+        jPanel25.add(jLabel129);
+        jLabel129.setBounds(80, 190, 110, 30);
+
+        jLabel130.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel130.setText("First Name:");
+        jPanel25.add(jLabel130);
+        jLabel130.setBounds(80, 160, 110, 30);
+
+        jLabel131.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel131.setText("First Name:");
+        jPanel25.add(jLabel131);
+        jLabel131.setBounds(80, 230, 110, 30);
+
+        jPanel26.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel26.setLayout(null);
+
+        jLabel132.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel132.setText("Registration");
+        jPanel26.add(jLabel132);
+        jLabel132.setBounds(230, 50, 220, 60);
+        jPanel26.add(jScrollBar26);
+        jScrollBar26.setBounds(680, 0, 17, 500);
+
+        jLabel133.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel133.setText("Insurance Tracker");
+        jPanel26.add(jLabel133);
+        jLabel133.setBounds(190, 10, 300, 60);
+
+        jLabel134.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel134.setText("First Name:");
+        jPanel26.add(jLabel134);
+        jLabel134.setBounds(90, 230, 110, 30);
+
+        jLabel135.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel135.setText("First Name:");
+        jPanel26.add(jLabel135);
+        jLabel135.setBounds(80, 140, 110, 30);
+
+        jLabel136.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel136.setText("First Name:");
+        jPanel26.add(jLabel136);
+        jLabel136.setBounds(80, 180, 110, 30);
+
+        jPanel25.add(jPanel26);
+        jPanel26.setBounds(0, 0, 0, 0);
+
+        jPanel27.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel27.setLayout(null);
+
+        jLabel137.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel137.setText("Registration");
+        jPanel27.add(jLabel137);
+        jLabel137.setBounds(230, 50, 220, 60);
+        jPanel27.add(jScrollBar27);
+        jScrollBar27.setBounds(680, 0, 17, 500);
+
+        jLabel138.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel138.setText("Insurance Tracker");
+        jPanel27.add(jLabel138);
+        jLabel138.setBounds(190, 10, 300, 60);
+
+        jLabel139.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel139.setText("First Name:");
+        jPanel27.add(jLabel139);
+        jLabel139.setBounds(90, 230, 110, 30);
+
+        jLabel140.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel140.setText("First Name:");
+        jPanel27.add(jLabel140);
+        jLabel140.setBounds(80, 140, 110, 30);
+
+        jLabel141.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel141.setText("First Name:");
+        jPanel27.add(jLabel141);
+        jLabel141.setBounds(80, 180, 110, 30);
+
+        jPanel28.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel28.setLayout(null);
+
+        jLabel142.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel142.setText("Registration");
+        jPanel28.add(jLabel142);
+        jLabel142.setBounds(230, 50, 220, 60);
+        jPanel28.add(jScrollBar28);
+        jScrollBar28.setBounds(680, 0, 17, 500);
+
+        jLabel143.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel143.setText("Insurance Tracker");
+        jPanel28.add(jLabel143);
+        jLabel143.setBounds(190, 10, 300, 60);
+
+        jLabel144.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel144.setText("First Name:");
+        jPanel28.add(jLabel144);
+        jLabel144.setBounds(90, 230, 110, 30);
+
+        jLabel145.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel145.setText("First Name:");
+        jPanel28.add(jLabel145);
+        jLabel145.setBounds(80, 140, 110, 30);
+
+        jLabel146.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel146.setText("First Name:");
+        jPanel28.add(jLabel146);
+        jLabel146.setBounds(80, 180, 110, 30);
+
+        jPanel27.add(jPanel28);
+        jPanel28.setBounds(0, 0, 0, 0);
+
+        jPanel25.add(jPanel27);
+        jPanel27.setBounds(0, 0, 0, 0);
+
+        jPanel29.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel29.setLayout(null);
+
+        jLabel147.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel147.setText("Registration");
+        jPanel29.add(jLabel147);
+        jLabel147.setBounds(230, 50, 220, 60);
+        jPanel29.add(jScrollBar29);
+        jScrollBar29.setBounds(680, 0, 17, 500);
+
+        jLabel148.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel148.setText("Insurance Tracker");
+        jPanel29.add(jLabel148);
+        jLabel148.setBounds(190, 10, 300, 60);
+
+        jLabel149.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel149.setText("First Name:");
+        jPanel29.add(jLabel149);
+        jLabel149.setBounds(90, 230, 110, 30);
+
+        jLabel150.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel150.setText("First Name:");
+        jPanel29.add(jLabel150);
+        jLabel150.setBounds(80, 140, 110, 30);
+
+        jLabel151.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel151.setText("First Name:");
+        jPanel29.add(jLabel151);
+        jLabel151.setBounds(80, 180, 110, 30);
+
+        jPanel30.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel30.setLayout(null);
+
+        jLabel152.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel152.setText("Registration");
+        jPanel30.add(jLabel152);
+        jLabel152.setBounds(230, 50, 220, 60);
+        jPanel30.add(jScrollBar30);
+        jScrollBar30.setBounds(680, 0, 17, 500);
+
+        jLabel153.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel153.setText("Insurance Tracker");
+        jPanel30.add(jLabel153);
+        jLabel153.setBounds(190, 10, 300, 60);
+
+        jLabel154.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel154.setText("First Name:");
+        jPanel30.add(jLabel154);
+        jLabel154.setBounds(90, 230, 110, 30);
+
+        jLabel155.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel155.setText("First Name:");
+        jPanel30.add(jLabel155);
+        jLabel155.setBounds(80, 140, 110, 30);
+
+        jLabel156.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel156.setText("First Name:");
+        jPanel30.add(jLabel156);
+        jLabel156.setBounds(80, 180, 110, 30);
+
+        jPanel29.add(jPanel30);
+        jPanel30.setBounds(0, 0, 0, 0);
+
+        jPanel31.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel31.setLayout(null);
+
+        jLabel157.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel157.setText("Registration");
+        jPanel31.add(jLabel157);
+        jLabel157.setBounds(230, 50, 220, 60);
+        jPanel31.add(jScrollBar31);
+        jScrollBar31.setBounds(680, 0, 17, 500);
+
+        jLabel158.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel158.setText("Insurance Tracker");
+        jPanel31.add(jLabel158);
+        jLabel158.setBounds(190, 10, 300, 60);
+
+        jLabel159.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel159.setText("First Name:");
+        jPanel31.add(jLabel159);
+        jLabel159.setBounds(90, 230, 110, 30);
+
+        jLabel160.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel160.setText("First Name:");
+        jPanel31.add(jLabel160);
+        jLabel160.setBounds(80, 140, 110, 30);
+
+        jLabel161.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel161.setText("First Name:");
+        jPanel31.add(jLabel161);
+        jLabel161.setBounds(80, 180, 110, 30);
+
+        jPanel32.setBackground(new java.awt.Color(204, 153, 255));
+        jPanel32.setLayout(null);
+
+        jLabel162.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel162.setText("Registration");
+        jPanel32.add(jLabel162);
+        jLabel162.setBounds(230, 50, 220, 60);
+        jPanel32.add(jScrollBar32);
+        jScrollBar32.setBounds(680, 0, 17, 500);
+
+        jLabel163.setFont(new java.awt.Font("Serif", 1, 36)); // NOI18N
+        jLabel163.setText("Insurance Tracker");
+        jPanel32.add(jLabel163);
+        jLabel163.setBounds(190, 10, 300, 60);
+
+        jLabel164.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel164.setText("First Name:");
+        jPanel32.add(jLabel164);
+        jLabel164.setBounds(90, 230, 110, 30);
+
+        jLabel165.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel165.setText("First Name:");
+        jPanel32.add(jLabel165);
+        jLabel165.setBounds(80, 140, 110, 30);
+
+        jLabel166.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel166.setText("First Name:");
+        jPanel32.add(jLabel166);
+        jLabel166.setBounds(80, 180, 110, 30);
+
+        jPanel31.add(jPanel32);
+        jPanel32.setBounds(0, 0, 0, 0);
+
+        jPanel29.add(jPanel31);
+        jPanel31.setBounds(0, 0, 0, 0);
+
+        jPanel25.add(jPanel29);
+        jPanel29.setBounds(0, 0, 0, 0);
+
+        jLabel167.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel167.setText("First Name:");
+        jPanel25.add(jLabel167);
+        jLabel167.setBounds(70, 130, 110, 30);
+
+        jPanel17.add(jPanel25);
+        jPanel25.setBounds(0, 0, 0, 0);
+
+        jLabel168.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel168.setText("Password:");
+        jPanel17.add(jLabel168);
+        jLabel168.setBounds(60, 280, 110, 30);
+
+        jLabel169.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel169.setText("Last Name:");
+        jPanel17.add(jLabel169);
+        jLabel169.setBounds(60, 180, 110, 30);
+
+        jLabel170.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel170.setText("Type:");
+        jPanel17.add(jLabel170);
+        jLabel170.setBounds(60, 370, 110, 30);
+
+        jTextField6.setText("jTextField1");
+        jPanel17.add(jTextField6);
+        jTextField6.setBounds(240, 280, 200, 30);
+
+        jTextField7.setText("jTextField1");
+        jPanel17.add(jTextField7);
+        jTextField7.setBounds(240, 130, 200, 30);
+
+        jTextField8.setText("jTextField1");
+        jPanel17.add(jTextField8);
+        jTextField8.setBounds(240, 180, 200, 30);
+
+        jTextField9.setText("jTextField1");
+        jPanel17.add(jTextField9);
+        jTextField9.setBounds(240, 330, 200, 30);
+
+        jTextField10.setText("jTextField1");
+        jPanel17.add(jTextField10);
+        jTextField10.setBounds(240, 230, 200, 30);
+
+        jPanel1.add(jPanel17);
+        jPanel17.setBounds(0, 0, 0, 0);
+        jPanel1.add(un);
+        un.setBounds(240, 320, 200, 30);
+
+        utype.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Admin", "User" }));
+        jPanel1.add(utype);
+        utype.setBounds(240, 400, 200, 30);
+
+        jButton1.setText("Register");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+        jPanel1.add(jButton1);
+        jButton1.setBounds(240, 450, 80, 23);
+
+        jButton2.setText("Exit");
+        jButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton2ActionPerformed(evt);
+            }
+        });
+        jPanel1.add(jButton2);
+        jButton2.setBounds(363, 450, 80, 23);
+
+        jLabel171.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/insurance-banner.png"))); // NOI18N
+        jPanel1.add(jLabel171);
+        jLabel171.setBounds(-90, -50, 870, 640);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -57,6 +1461,14 @@ public class registration extends javax.swing.JFrame {
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+       System.exit(0);
+    }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -94,8 +1506,253 @@ public class registration extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JTextField email;
+    private javax.swing.JTextField fn;
+    private javax.swing.JButton jButton1;
+    private javax.swing.JButton jButton2;
     private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel10;
+    private javax.swing.JLabel jLabel100;
+    private javax.swing.JLabel jLabel101;
+    private javax.swing.JLabel jLabel102;
+    private javax.swing.JLabel jLabel103;
+    private javax.swing.JLabel jLabel104;
+    private javax.swing.JLabel jLabel105;
+    private javax.swing.JLabel jLabel106;
+    private javax.swing.JLabel jLabel107;
+    private javax.swing.JLabel jLabel108;
+    private javax.swing.JLabel jLabel109;
+    private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel110;
+    private javax.swing.JLabel jLabel111;
+    private javax.swing.JLabel jLabel112;
+    private javax.swing.JLabel jLabel113;
+    private javax.swing.JLabel jLabel114;
+    private javax.swing.JLabel jLabel115;
+    private javax.swing.JLabel jLabel116;
+    private javax.swing.JLabel jLabel117;
+    private javax.swing.JLabel jLabel118;
+    private javax.swing.JLabel jLabel119;
+    private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel120;
+    private javax.swing.JLabel jLabel121;
+    private javax.swing.JLabel jLabel122;
+    private javax.swing.JLabel jLabel123;
+    private javax.swing.JLabel jLabel124;
+    private javax.swing.JLabel jLabel125;
+    private javax.swing.JLabel jLabel126;
+    private javax.swing.JLabel jLabel127;
+    private javax.swing.JLabel jLabel128;
+    private javax.swing.JLabel jLabel129;
+    private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel130;
+    private javax.swing.JLabel jLabel131;
+    private javax.swing.JLabel jLabel132;
+    private javax.swing.JLabel jLabel133;
+    private javax.swing.JLabel jLabel134;
+    private javax.swing.JLabel jLabel135;
+    private javax.swing.JLabel jLabel136;
+    private javax.swing.JLabel jLabel137;
+    private javax.swing.JLabel jLabel138;
+    private javax.swing.JLabel jLabel139;
+    private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel140;
+    private javax.swing.JLabel jLabel141;
+    private javax.swing.JLabel jLabel142;
+    private javax.swing.JLabel jLabel143;
+    private javax.swing.JLabel jLabel144;
+    private javax.swing.JLabel jLabel145;
+    private javax.swing.JLabel jLabel146;
+    private javax.swing.JLabel jLabel147;
+    private javax.swing.JLabel jLabel148;
+    private javax.swing.JLabel jLabel149;
+    private javax.swing.JLabel jLabel15;
+    private javax.swing.JLabel jLabel150;
+    private javax.swing.JLabel jLabel151;
+    private javax.swing.JLabel jLabel152;
+    private javax.swing.JLabel jLabel153;
+    private javax.swing.JLabel jLabel154;
+    private javax.swing.JLabel jLabel155;
+    private javax.swing.JLabel jLabel156;
+    private javax.swing.JLabel jLabel157;
+    private javax.swing.JLabel jLabel158;
+    private javax.swing.JLabel jLabel159;
+    private javax.swing.JLabel jLabel16;
+    private javax.swing.JLabel jLabel160;
+    private javax.swing.JLabel jLabel161;
+    private javax.swing.JLabel jLabel162;
+    private javax.swing.JLabel jLabel163;
+    private javax.swing.JLabel jLabel164;
+    private javax.swing.JLabel jLabel165;
+    private javax.swing.JLabel jLabel166;
+    private javax.swing.JLabel jLabel167;
+    private javax.swing.JLabel jLabel168;
+    private javax.swing.JLabel jLabel169;
+    private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel170;
+    private javax.swing.JLabel jLabel171;
+    private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel19;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel20;
+    private javax.swing.JLabel jLabel21;
+    private javax.swing.JLabel jLabel22;
+    private javax.swing.JLabel jLabel23;
+    private javax.swing.JLabel jLabel24;
+    private javax.swing.JLabel jLabel25;
+    private javax.swing.JLabel jLabel26;
+    private javax.swing.JLabel jLabel27;
+    private javax.swing.JLabel jLabel28;
+    private javax.swing.JLabel jLabel29;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel30;
+    private javax.swing.JLabel jLabel31;
+    private javax.swing.JLabel jLabel32;
+    private javax.swing.JLabel jLabel33;
+    private javax.swing.JLabel jLabel34;
+    private javax.swing.JLabel jLabel35;
+    private javax.swing.JLabel jLabel36;
+    private javax.swing.JLabel jLabel37;
+    private javax.swing.JLabel jLabel38;
+    private javax.swing.JLabel jLabel39;
+    private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel40;
+    private javax.swing.JLabel jLabel41;
+    private javax.swing.JLabel jLabel42;
+    private javax.swing.JLabel jLabel43;
+    private javax.swing.JLabel jLabel44;
+    private javax.swing.JLabel jLabel45;
+    private javax.swing.JLabel jLabel46;
+    private javax.swing.JLabel jLabel47;
+    private javax.swing.JLabel jLabel48;
+    private javax.swing.JLabel jLabel49;
+    private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel50;
+    private javax.swing.JLabel jLabel51;
+    private javax.swing.JLabel jLabel52;
+    private javax.swing.JLabel jLabel53;
+    private javax.swing.JLabel jLabel54;
+    private javax.swing.JLabel jLabel55;
+    private javax.swing.JLabel jLabel56;
+    private javax.swing.JLabel jLabel57;
+    private javax.swing.JLabel jLabel58;
+    private javax.swing.JLabel jLabel59;
+    private javax.swing.JLabel jLabel6;
+    private javax.swing.JLabel jLabel60;
+    private javax.swing.JLabel jLabel61;
+    private javax.swing.JLabel jLabel62;
+    private javax.swing.JLabel jLabel63;
+    private javax.swing.JLabel jLabel64;
+    private javax.swing.JLabel jLabel65;
+    private javax.swing.JLabel jLabel66;
+    private javax.swing.JLabel jLabel67;
+    private javax.swing.JLabel jLabel68;
+    private javax.swing.JLabel jLabel69;
+    private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel70;
+    private javax.swing.JLabel jLabel71;
+    private javax.swing.JLabel jLabel72;
+    private javax.swing.JLabel jLabel73;
+    private javax.swing.JLabel jLabel74;
+    private javax.swing.JLabel jLabel75;
+    private javax.swing.JLabel jLabel76;
+    private javax.swing.JLabel jLabel77;
+    private javax.swing.JLabel jLabel78;
+    private javax.swing.JLabel jLabel79;
+    private javax.swing.JLabel jLabel8;
+    private javax.swing.JLabel jLabel80;
+    private javax.swing.JLabel jLabel81;
+    private javax.swing.JLabel jLabel82;
+    private javax.swing.JLabel jLabel83;
+    private javax.swing.JLabel jLabel84;
+    private javax.swing.JLabel jLabel85;
+    private javax.swing.JLabel jLabel86;
+    private javax.swing.JLabel jLabel87;
+    private javax.swing.JLabel jLabel88;
+    private javax.swing.JLabel jLabel89;
+    private javax.swing.JLabel jLabel9;
+    private javax.swing.JLabel jLabel90;
+    private javax.swing.JLabel jLabel91;
+    private javax.swing.JLabel jLabel92;
+    private javax.swing.JLabel jLabel93;
+    private javax.swing.JLabel jLabel94;
+    private javax.swing.JLabel jLabel95;
+    private javax.swing.JLabel jLabel96;
+    private javax.swing.JLabel jLabel97;
+    private javax.swing.JLabel jLabel98;
+    private javax.swing.JLabel jLabel99;
     private javax.swing.JPanel jPanel1;
-    private javax.swing.JScrollBar jScrollBar1;
+    private javax.swing.JPanel jPanel10;
+    private javax.swing.JPanel jPanel11;
+    private javax.swing.JPanel jPanel12;
+    private javax.swing.JPanel jPanel13;
+    private javax.swing.JPanel jPanel14;
+    private javax.swing.JPanel jPanel15;
+    private javax.swing.JPanel jPanel16;
+    private javax.swing.JPanel jPanel17;
+    private javax.swing.JPanel jPanel18;
+    private javax.swing.JPanel jPanel19;
+    private javax.swing.JPanel jPanel2;
+    private javax.swing.JPanel jPanel20;
+    private javax.swing.JPanel jPanel21;
+    private javax.swing.JPanel jPanel22;
+    private javax.swing.JPanel jPanel23;
+    private javax.swing.JPanel jPanel24;
+    private javax.swing.JPanel jPanel25;
+    private javax.swing.JPanel jPanel26;
+    private javax.swing.JPanel jPanel27;
+    private javax.swing.JPanel jPanel28;
+    private javax.swing.JPanel jPanel29;
+    private javax.swing.JPanel jPanel3;
+    private javax.swing.JPanel jPanel30;
+    private javax.swing.JPanel jPanel31;
+    private javax.swing.JPanel jPanel32;
+    private javax.swing.JPanel jPanel4;
+    private javax.swing.JPanel jPanel5;
+    private javax.swing.JPanel jPanel6;
+    private javax.swing.JPanel jPanel7;
+    private javax.swing.JPanel jPanel8;
+    private javax.swing.JPanel jPanel9;
+    private javax.swing.JScrollBar jScrollBar10;
+    private javax.swing.JScrollBar jScrollBar11;
+    private javax.swing.JScrollBar jScrollBar12;
+    private javax.swing.JScrollBar jScrollBar13;
+    private javax.swing.JScrollBar jScrollBar14;
+    private javax.swing.JScrollBar jScrollBar15;
+    private javax.swing.JScrollBar jScrollBar16;
+    private javax.swing.JScrollBar jScrollBar17;
+    private javax.swing.JScrollBar jScrollBar18;
+    private javax.swing.JScrollBar jScrollBar19;
+    private javax.swing.JScrollBar jScrollBar2;
+    private javax.swing.JScrollBar jScrollBar20;
+    private javax.swing.JScrollBar jScrollBar21;
+    private javax.swing.JScrollBar jScrollBar22;
+    private javax.swing.JScrollBar jScrollBar23;
+    private javax.swing.JScrollBar jScrollBar24;
+    private javax.swing.JScrollBar jScrollBar25;
+    private javax.swing.JScrollBar jScrollBar26;
+    private javax.swing.JScrollBar jScrollBar27;
+    private javax.swing.JScrollBar jScrollBar28;
+    private javax.swing.JScrollBar jScrollBar29;
+    private javax.swing.JScrollBar jScrollBar3;
+    private javax.swing.JScrollBar jScrollBar30;
+    private javax.swing.JScrollBar jScrollBar31;
+    private javax.swing.JScrollBar jScrollBar32;
+    private javax.swing.JScrollBar jScrollBar4;
+    private javax.swing.JScrollBar jScrollBar5;
+    private javax.swing.JScrollBar jScrollBar6;
+    private javax.swing.JScrollBar jScrollBar7;
+    private javax.swing.JScrollBar jScrollBar8;
+    private javax.swing.JScrollBar jScrollBar9;
+    private javax.swing.JTextField jTextField10;
+    private javax.swing.JTextField jTextField4;
+    private javax.swing.JTextField jTextField6;
+    private javax.swing.JTextField jTextField7;
+    private javax.swing.JTextField jTextField8;
+    private javax.swing.JTextField jTextField9;
+    private javax.swing.JTextField ln;
+    private javax.swing.JTextField pass;
+    private javax.swing.JTextField un;
+    private javax.swing.JComboBox<String> utype;
     // End of variables declaration//GEN-END:variables
 }
